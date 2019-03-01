@@ -1,0 +1,12 @@
+package Calc;
+
+public class Operations {
+	
+	
+	private int sub(int quest, int acert) {
+		
+		int sub = quest-acert;
+		
+		return sub;
+	}
+}
